@@ -6,5 +6,8 @@ public class Test {
 		System.out.println("hello girl");
 
 	}
+	public static void fun(){
+		System.out.println("print out...");
+	}
 
 }
