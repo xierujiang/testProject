@@ -7,7 +7,7 @@ public class Test {
 
 	}
 	public static void fun(){
-		System.out.println("print out...");
+		System.out.println("print out..a.");
 	}
 
 }
