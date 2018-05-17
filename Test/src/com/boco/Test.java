@@ -9,5 +9,6 @@ public class Test {
 	public static void fun(){
 		System.out.println("print out..a.");
 	}
+	public static void b(){}
 
 }
